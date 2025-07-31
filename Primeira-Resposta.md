@@ -27,8 +27,16 @@
 
 ## 📂 Evidências (simuladas)
 - Screenshot da detecção no SIEM
+  ![Identificação SIEM](Evidencias/Siem.png)
+  
+- Identificação de ip
+  ![Ip Scanner](Evidencias/ip-scanner.png)
+
+- Comunicação com a staff
+  ![Encaminhamento](Evidencias/comunicacao.png)
+  
 - Exemplo da regra aplicada no firewall
-- Modelo de relatório enviado
+  ![Resposta ao Incidente](Evidencias/Resposta-firewall.png)
 
 ## 📘 Conhecimentos Aplicados
 - Análise de logs
